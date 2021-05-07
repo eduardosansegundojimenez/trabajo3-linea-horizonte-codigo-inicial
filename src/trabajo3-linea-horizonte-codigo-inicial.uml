@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_BCc78K8bEeu2YMnQHY--KQ" name="trabajo3_linea_horizonte_codigo_inicial">
+    <eAnnotations xmi:id="_BHiQQK8bEeu2YMnQHY--KQ" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_BHi3UK8bEeu2YMnQHY--KQ" source="codegen">
+        <details xmi:id="_BHi3Ua8bEeu2YMnQHY--KQ" key="codegenDirectory" value="/trabajo3-linea-horizonte-codigo-inicial/src/main/java"/>
+      </contents>
+    </eAnnotations>
+    <profileApplication xmi:id="_BHi3Uq8bEeu2YMnQHY--KQ">
+      <eAnnotations xmi:id="_BHjeYK8bEeu2YMnQHY--KQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:TargetLanguage xmi:id="_BHjeYa8bEeu2YMnQHY--KQ" base_Package="_BCc78K8bEeu2YMnQHY--KQ">
+    <languageName>java</languageName>
+  </UMLLabProfile:TargetLanguage>
+</xmi:XMI>
